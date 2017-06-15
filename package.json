@@ -1,0 +1,20 @@
+{
+  "name": "jumbo-benchmark",
+  "version": "1.0.0",
+  "main": "lib/script.js",
+  "engines": {
+    "node": ">=4"
+  },
+ "dependencies": {
+    "shelljs": "^0.x.x",
+    "yargs": "^4.8.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.17.1",
+    "eslint-config-loopback": "^8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
